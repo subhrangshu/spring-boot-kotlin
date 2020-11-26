@@ -1,0 +1,4 @@
+For live reloading:
+./gradlew build --continuous
+./gradlew bootRun
+run both in two different terminal
